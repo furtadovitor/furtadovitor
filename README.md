@@ -1,6 +1,6 @@
 <h3>Olá galera, sou o Vitor Hugo Furtado Pereira! </h3>
 
-- 👋 Hi, I’m @furtadovitor
+- 👋 Olá, sou @furtadovitor.
 - &#127891; Sou formado em tecnologia da informação pelo SENAI. 
 - &#127891; Estou no 8º período de Ciência da Computação na universidade UNISUAM.
 - &#128187; Apaixonado por tecnologia.
